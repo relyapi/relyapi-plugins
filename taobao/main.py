@@ -99,3 +99,7 @@ class TaobaoPlugin(BasePlugin):
             method=method,
             headers=headers
         )
+
+
+if __name__ == '__main__':
+    pass
